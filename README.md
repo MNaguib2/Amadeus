@@ -1,2 +1,2 @@
 # Amadeus
-program to read tickets amadeus .txt and send data to via API to server etolv
+this application establish by ***Etolv*** to read all ticket Amadeus Flight
